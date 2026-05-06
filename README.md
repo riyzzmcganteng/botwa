@@ -2,16 +2,32 @@ GitHub Bot WhatsApp by riyzz 🚀
 Halo semuanya! Perkenalkan, ini adalah GitHub Bot WhatsApp versi terbaru yang dikembangkan secara eksklusif oleh riyzz. Bot ini dirancang khusus untuk memudahkan integrasi antara GitHub dan WhatsApp secara real-time, efisien, dan otomatis.
 Kenapa harus menggunakan bot ini?
 Bot ini hadir dengan performa tinggi untuk membantu Anda memantau aktivitas repositori GitHub langsung dari genggaman tangan. Tidak perlu lagi bolak-balik membuka browser atau aplikasi GitHub, semua notifikasi penting akan dikirimkan langsung ke WhatsApp Anda!
+
 Fitur Utama & Keunggulan:
 ✅ Notifikasi Push Otomatis: Dapatkan pembaruan instan setiap ada commit, pull request, atau issue baru.
 ✅ Manajemen Repositori: Cek status repo, daftar kontributor, hingga detail bintang (stars) hanya dengan satu perintah.
 ✅ Ringan & Cepat: Dibangun dengan optimasi kode terbaik sehingga tidak membebani server dan responsif.
 ✅ User Friendly: Perintah yang mudah diingat dan antarmuka pesan yang rapi.
 ✅ Keamanan Terjamin: Menggunakan enkripsi API terbaru untuk menjaga privasi data Anda.
+Kunjungi Website Kami:
+Cek katalog layanan lengkap dan informasi
+
+lainnya di sini:
+🌐 riyzz-sell.netlify.app
+
+Bergabung dengan Komunitas & Informasi Terupdate:
+Jangan lewatkan pembaruan fitur terbaru, tips, dan diskusi menarik seputar bot ini di link berikut:
+
+📢 Saluran WhatsApp:
+https://whatsapp.com/channel/0029Vb76Xm0JuyAAt2TBgx3i
+
+👥 Grup Komunitas:
+https://chat.whatsapp.com/JNI8S898V9fCyqOHwS4LCa
+
 Tertarik untuk mencoba atau bekerja sama?
 Jika Anda ingin memasang bot ini, membutuhkan bantuan teknis, atau tertarik dengan layanan pembuatan bot kustom lainnya, silakan hubungi pengembang langsung melalui kontak di bawah ini:
 
-📞 Hubungi Saya di WhatsApp:
+📞 WhatsApp Personal:
 085602052384
 
 Catatan Pengembang:
